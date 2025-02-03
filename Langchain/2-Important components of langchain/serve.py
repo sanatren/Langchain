@@ -41,3 +41,7 @@ add_routes(
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app,host="localhost",port=8000)
+
+
+
+##use /docs after ur local url to acces the methods to run chain
