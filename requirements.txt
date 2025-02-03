@@ -14,3 +14,8 @@ chromadb
  langchain_huggingface
  faiss-cpu
  langchain-chroma
+langchain-groq
+langchain_core
+fastapi
+uvicorn
+langserve
